@@ -9,7 +9,7 @@ with unbalanced classes. I used imbalanced-learn and scikit-learn libraries to b
 
 ## Results 
 <br><br>
-![](https://github.com/dernae/Module_17_MachineLearning_Supervised/blob/main/results/Balanced_rand_Forest.PNG)<br>
+![](https://github.com/dernae/Module_17_MachineLearning_Supervised/blob/main/results/Balanced_random_Forest.PNG)<br>
 <br><br>
 ![](https://github.com/dernae/Module_17_MachineLearning_Supervised/blob/main/results/Boosting_Classifier.PNG)<br>
 <br><br>
