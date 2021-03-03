@@ -34,6 +34,6 @@ with unbalanced classes. I used imbalanced-learn and scikit-learn libraries to b
 
 Overall, the Random Forest Classifier Model performed the best, the accuracy and precision scores are high (above70%).
 Naive Random Oversampling Model and SMOTE Oversampling Model performed the worst, The accuracy score and cummulative 
-precision scores are very low (below70%). Even though the Ensemble AdaBoost Classifier had accuracy, The results were
+precision scores are very low (below70%). Even though the Ensemble AdaBoost Classifier had a high accuracy score, The results were
 biased and only accurate for one outcome. I would recommend using the Random Forest Classifier Model for ML 
 analyses such as predicting credit risk.
