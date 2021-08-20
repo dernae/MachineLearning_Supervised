@@ -1,4 +1,4 @@
-# Module_17_MachineLearning_Supervised
+# MachineLearning_Supervised
 
 ## Overview of Analysis
 
